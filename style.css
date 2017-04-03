@@ -125,3 +125,16 @@ a.bibliography:link{
   color:#AFAFAF;
   text-decoration: none;
 }
+
+.leftimage{
+        display: block;
+        width: 500px;
+        height: 500px;
+        float: left;
+}
+.rightimage{
+        display: block;
+        width: 500px;
+        height: 500px;
+        float: right;
+}
