@@ -162,3 +162,11 @@ a.bibliography:link{
   margin-right:auto;
   margin-bottom:auto;
 }
+.other{
+  float:left;
+  color: #898989;
+  text-align: left;
+  margin-left:3%;
+  margin-right:auto;
+  margin-bottom:auto;
+}
