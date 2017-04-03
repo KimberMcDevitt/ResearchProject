@@ -138,3 +138,27 @@ a.bibliography:link{
         height: 100px;
         float: right;
 }
+.health{
+  float:left;
+  color: #898989;
+  text-align: left;
+  margin-left:3%;
+  margin-right:auto;
+  margin-bottom:auto;
+}
+.security{
+  float:left;
+  color: #898989;
+  text-align: left;
+  margin-left:3%;
+  margin-right:auto;
+  margin-bottom:auto;
+}
+.sustainability{
+  float:left;
+  color: #898989;
+  text-align: left;
+  margin-left:3%;
+  margin-right:auto;
+  margin-bottom:auto;
+}
