@@ -136,7 +136,8 @@ a.bibliography:link{
         display: block;
         width: 100px;
         height: 100px;
-        float: right;
+        float: left;
+        margin-left: 3%;
 }
 .theme{
   float:left;
