@@ -128,13 +128,13 @@ a.bibliography:link{
 
 .leftimage{
         display: block;
-        width: 300px;
-        height: 300px;
+        width: 100px;
+        height: 100px;
         float: left;
 }
 .rightimage{
         display: block;
-        width: 500px;
-        height: 500px;
+        width: 100px;
+        height: 100px;
         float: right;
 }
