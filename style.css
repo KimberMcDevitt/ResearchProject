@@ -28,7 +28,9 @@ a:active {
         text-align: left;
         font-size: 14px;
 }      
-
+.navlink{
+        text-align: right;
+}
 .space{
        height: 55px;
 }
