@@ -146,24 +146,24 @@ a.bibliography:link{
 }
 .mainimage{
         display: block;
-        width: 600px;
-        height: 600px;
+        width: 400px;
+        height: 400px;
         float: left;
         padding-right: 10px;
         padding-left: 10px;
 }
 .mainimageleft{
         display: block;
-        width: 600px;
-        height: 600px;
+        width: 400px;
+        height: 400px;
         float: left;
         padding-right: 10px;
         padding-left: 10px;
 }
 .mainimageright{
         display: block;
-        width: 600px;
-        height: 600px;
+        width: 400px;
+        height: 400px;
         float: right;
         padding-right: 10px;
         padding-left: 10px;
