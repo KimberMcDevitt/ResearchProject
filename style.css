@@ -152,6 +152,22 @@ a.bibliography:link{
         padding-right: 10px;
         padding-left: 10px;
 }
+.mainimageleft{
+        display: block;
+        width: 600px;
+        height: 600px;
+        float: left;
+        padding-right: 10px;
+        padding-left: 10px;
+}
+.mainimageright{
+        display: block;
+        width: 600px;
+        height: 600px;
+        float: right;
+        padding-right: 10px;
+        padding-left: 10px;
+}
 .theme{
   float:left;
   color: #898989;
