@@ -246,5 +246,19 @@ a.bibliography:link{
     flex-shrink: 0;
     flex-basis: 200px;
 }
+  .flex-item-7 {
+    width: 250px;
+    height: 250px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 200px;
+}
   
+ .flex-item-8 {
+    width: 250px;
+    height: 250px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 200px;
+}
   
