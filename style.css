@@ -159,6 +159,7 @@ a.bibliography:link{
         float: left;
         padding-right: 10px;
         padding-left: 10px;
+        padding-top: 10px;
 }
 .mainimageright{
         display: block;
@@ -167,6 +168,7 @@ a.bibliography:link{
         float: right;
         padding-right: 10px;
         padding-left: 10px;
+        padding-top: 10px;
 }
 .theme{
   float:left;
