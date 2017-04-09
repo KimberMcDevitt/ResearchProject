@@ -223,6 +223,15 @@ a.bibliography:link{
     text-align: left;
 }
 
+.flex-item-1 {
+    width: 600px;
+    height: 600px;
+    padding: 20px;
+   /* flex: 1 100%; */
+    text-align: left;
+    align-content: flex-start;
+    align-items: flex-start;
+}
 .theme-header{
   text-align:left;
   background:#E2E2E2;
