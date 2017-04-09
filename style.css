@@ -1,7 +1,8 @@
+@import "compass/css3";
+
 .first_page{
         font-family: "Libre Baskerville", sans-serif;
         background-color: #E2E2E2;
-        margin:0%;
 }  
 a:link {
   color: #CC0000;
@@ -23,7 +24,6 @@ a:active {
         background-color: #CCCCCC;
         height: 75px;
         width:auto;
-        margin:0%;
         color: #CC0000;
         padding: 5px;
         text-align: left;
@@ -43,7 +43,7 @@ a:active {
         color: #898989;
         text-align: left;
         margin: auto;
-        padding: 0px;
+        padding: 1px;
         float: left;
 
 }
@@ -56,7 +56,7 @@ a:active {
 }
 
 .quote{
-       font-weight:light;
+       font-weight:lighter;
        color: #898989;
 }
 
@@ -102,7 +102,6 @@ a.sidebarlink:active{
        font-weight:bold;
        color: #898989;
        text-align:left;
-       margin-left:0%;
        margin-right:auto;
 }
 .story{
@@ -126,6 +125,18 @@ a.sidebarlink:active{
 a.bibliography:link{
   color:#AFAFAF;
   text-decoration: none;
+}
+
+
+.parent{
+  display:flex;
+  height: 300px;
+}
+
+.child{
+  width: 300px;
+  height: 300px;
+  margin: auto;
 }
 
 .leftimage{
@@ -179,9 +190,8 @@ a.bibliography:link{
   margin-bottom:auto;
 }
 
+
 .flex-container {
-    margin: auto;
-    padding: 0;
     list-style:none;
     display: -webkit-box;
     display: -moz-box;
@@ -191,7 +201,6 @@ a.bibliography:link{
     flex-direction: row;
     flex-wrap: wrap;
     font-weight: bold;
-    vertical-align: top;  
     text-align: left;
     justify-content: space-around;
     align-content: flex-start;
@@ -220,5 +229,4 @@ a.bibliography:link{
   vertical-align: top;
    /* flex: 1 100%; */
 }
-  
  
