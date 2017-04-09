@@ -28,7 +28,15 @@ a:active {
         padding: 5px;
         text-align: left;
         font-size: 14px;
-}      
+}    
+
+.borderthin{
+        background-color: #CCCCCC;
+        height: 10px;
+        width:auto;
+        color: #CC0000;
+} 
+
 .navlink{
         text-align: right;
 }
