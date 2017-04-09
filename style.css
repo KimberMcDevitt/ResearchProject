@@ -202,7 +202,7 @@ a.bibliography:link{
     width: 250px;
     height: 250px;
     padding: 20px;
-    flex: 1 100%;
+   /* flex: 1 100%; */
     text-align: left;
 }
 
@@ -211,14 +211,14 @@ a.bibliography:link{
   background:#E2E2E2;
   width:250px;
   font-size: 30px;
-  flex: 1 100%
+   /* flex: 1 100%; */
 }
 
 .theme-definition{
   text-align:left;
   background:#E2E2E2;
   vertical-align: top;
-  flex: 1 100%
+   /* flex: 1 100%; */
 }
   
  
