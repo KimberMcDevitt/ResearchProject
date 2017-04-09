@@ -194,6 +194,8 @@ a.bibliography:link{
     vertical-align: top;  
     text-align: left;
     justify-content: space-around;
+    align-content: flex-start;
+    align-items: center;
 }
  
  .flex-item {
