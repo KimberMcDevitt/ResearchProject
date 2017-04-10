@@ -232,6 +232,15 @@ a.bibliography:link{
     align-content: flex-start;
     align-items: flex-start;
 }
+.flex-item-2 {
+    width: 1500px;
+    height: 800px;
+    padding: 20px;
+   /* flex: 1 100%; */
+    text-align: left;
+    align-content: flex-start;
+    align-items: flex-start;
+}
 .theme-header{
   text-align:left;
   background:#E2E2E2;
