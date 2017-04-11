@@ -23,7 +23,7 @@ a:active {
 .border{
         background-color: #CCCCCC;
         height: 75px;
-        width:auto;
+        width:100%;
         color: #CC0000;
         padding: 5px;
         text-align: left;
@@ -33,7 +33,7 @@ a:active {
 .borderthin{
         background-color: #CCCCCC;
         height: 10px;
-        width:auto;
+        width:100%;
         color: #CC0000;
 } 
 
@@ -42,7 +42,7 @@ a:active {
 }
 .space{
        height: 55px;
-       width: auto;
+       width: 100%;
 }
 
 .main{
@@ -119,7 +119,7 @@ a.sidebarlink:active{
    margin-left:3%;
    margin-right:auto;
    margin-bottom:auto;
-   float: left;        
+   /*float: left;   */     
 }
 
 .bibliography{
