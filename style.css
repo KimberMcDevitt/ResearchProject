@@ -233,7 +233,7 @@ a.bibliography:link{
     align-items: flex-start;
 }
 .flex-item-2 {
-    width: auto;
+    width: 1000;
     height: 800px;
     padding: 20px;
    /* flex: 1 100%; */
