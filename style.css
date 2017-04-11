@@ -3,6 +3,7 @@
 .first_page{
         font-family: "Raleway", sans-serif;
         background-color: #E5E5E5;
+        width:100%;
 }  
 a:link {
   color: #CC0000;
