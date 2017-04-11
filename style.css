@@ -23,7 +23,7 @@ a:active {
 .border{
         background-color: #CCCCCC;
         height: 75px;
-        width:auto;
+        width:1500px;
         color: #CC0000;
         padding: 5px;
         text-align: left;
@@ -42,7 +42,7 @@ a:active {
 }
 .space{
        height: 55px;
-       width: auto;
+       width: 1500px;
 }
 
 .main{
