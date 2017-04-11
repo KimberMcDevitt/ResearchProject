@@ -173,7 +173,7 @@ a.bibliography:link{
 }
 .mainimageleft{
         display: block;
-        width: 300px;
+        width: 400px;
         height: 400px;
         float: left;
         padding-right: 10px;
@@ -182,7 +182,7 @@ a.bibliography:link{
 }
 .mainimageright{
         display: block;
-        width: 300px;
+        width: 400px;
         height: 400px;
         float: right;
         padding-right: 10px;
