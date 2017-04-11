@@ -2,7 +2,7 @@
 
 .first_page{
         font-family: "Raleway", sans-serif;
-        background-color: #FAFAFA;
+        background-color: #E5E5E5;
 }  
 a:link {
   color: #CC0000;
@@ -243,7 +243,7 @@ a.bibliography:link{
 }
 .theme-header{
   text-align:left;
-  background:#FAFAFA;
+  background:#E5E5E5;
   width:250px;
   font-size: 30px;
    /* flex: 1 100%; */
