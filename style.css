@@ -23,7 +23,7 @@ a:active {
 .border{
         background-color: #CCCCCC;
         height: 75px;
-        width:1500px;
+        width:auto;
         color: #CC0000;
         padding: 5px;
         text-align: left;
@@ -42,7 +42,7 @@ a:active {
 }
 .space{
        height: 55px;
-       width: 1500px;
+       width: auto;
 }
 
 .main{
@@ -233,7 +233,7 @@ a.bibliography:link{
     align-items: flex-start;
 }
 .flex-item-2 {
-    width: 1500px;
+    width: auto;
     height: 800px;
     padding: 20px;
    /* flex: 1 100%; */
