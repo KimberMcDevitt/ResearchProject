@@ -142,14 +142,14 @@ a.bibliography:link{
 }
 
 .child{
-  width: 100%;
+  width: 300px;
   height: 300px;
   margin: auto;
 }
 
 .leftimage{
         display: block;
-        width: 100%;
+        width: 100px;
         height: 100px;
         float: left;
         padding-right: 20px;
@@ -157,7 +157,7 @@ a.bibliography:link{
 }
 .rightimage{
         display: block;
-        width: 100%;
+        width: 100px;
         height: 100px;
         float: left;
         padding-right: 20px;
@@ -165,7 +165,7 @@ a.bibliography:link{
 }
 .mainimage{
         display: block;
-        width: 100%;
+        width: 400px;
         height: 400px;
         float: left;
         padding-right: 10px;
@@ -173,7 +173,7 @@ a.bibliography:link{
 }
 .mainimageleft{
         display: block;
-        width: 100%;
+        width: 400px;
         height: 400px;
         float: left;
         padding-right: 10px;
@@ -182,7 +182,7 @@ a.bibliography:link{
 }
 .mainimageright{
         display: block;
-        width: 100%;
+        width: 400px;
         height: 400px;
         float: right;
         padding-right: 10px;
@@ -216,7 +216,7 @@ a.bibliography:link{
 }
  
  .flex-item {
-    width: 100%;
+    width: 250px;
     height: 250px;
     padding: 20px;
    /* flex: 1 100%; */
@@ -224,7 +224,7 @@ a.bibliography:link{
 }
 
 .flex-item-1 {
-    width: 100%;
+    width: 500px;
     height: 500px;
     padding: 20px;
    /* flex: 1 100%; */
@@ -233,7 +233,7 @@ a.bibliography:link{
     align-items: flex-start;
 }
 .flex-item-2 {
-    width: 100%;
+    width: 700px;
     height: 700px;
     padding: 20px;
    /* flex: 1 100%; */
