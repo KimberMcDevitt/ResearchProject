@@ -24,7 +24,7 @@ a:active {
 .border{
         background-color: #CCCCCC;
         height: 75px;
-        width:100%;
+/*         width:100%; */
         color: #CC0000;
         padding: 5px;
         text-align: left;
