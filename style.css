@@ -220,7 +220,7 @@ a.bibliography:link{
     justify-content: space-around;
     align-content: flex-start;
     align-items: center;
-    width: fit-content;
+    width: -webkit-fit-content;
 }
  
  .flex-item {
