@@ -201,6 +201,10 @@ a.bibliography:link{
   margin-bottom:auto;
 }
 
+.scroll-container{
+   overflow: auto;
+   width: 100%;
+}
 
 .flex-container {
     list-style:none;
@@ -216,6 +220,7 @@ a.bibliography:link{
     justify-content: space-around;
     align-content: flex-start;
     align-items: center;
+    width: fit-content;
 }
  
  .flex-item {
