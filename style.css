@@ -100,6 +100,7 @@ a.sidebarlink:active{
 
 .buffer {
   min-height:510px;
+  width:100%;
 }
 
 .alt-text{
