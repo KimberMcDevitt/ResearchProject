@@ -46,6 +46,10 @@ a:active {
        width: 100%;
 }
 
+.spacetall{
+        width:50px;
+}
+
 .main{
         font-size: 18px;
         font-weight: bold;
