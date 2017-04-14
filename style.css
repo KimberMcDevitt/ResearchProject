@@ -250,6 +250,15 @@ a.bibliography:link{
 }
 .flex-item-2 {
     width: 1400px;
+    height: 350px;
+    padding: 20px;
+   /* flex: 1 100%; */
+    text-align: left;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+.flex-item-3 {
+    width: 1400px;
     height: 700px;
     padding: 20px;
    /* flex: 1 100%; */
