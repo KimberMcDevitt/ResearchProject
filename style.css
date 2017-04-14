@@ -154,6 +154,8 @@ a.bibliography:link{
         display: block;
         width: 100px;
         height: 100px;
+        margin-left:auto;
+        margin-right:auto;
         float: left;
         padding-right: 20px;
         padding-left: 20px;
@@ -162,7 +164,9 @@ a.bibliography:link{
         display: block;
         width: 100px;
         height: 100px;
-        float: left;
+        margin-left:auto;
+        margin-right:auto;
+        float: right;
         padding-right: 20px;
         padding-left: 20px;
 }
@@ -178,7 +182,9 @@ a.bibliography:link{
         display: block;
         width: 500px;
         height: 500px;
-        float: left;
+        margin-left:auto;
+        margin-right:auto;
+        /*float: left;*/
         padding-right: 10px;
         padding-left: 10px;
         padding-top: 10px;
@@ -187,7 +193,9 @@ a.bibliography:link{
         display: block;
         width: 500px;
         height: 500px;
-        float: right;
+        margin-left:auto;
+        margin-right:auto;
+        /*float: right;*/
         padding-right: 10px;
         padding-left: 10px;
         padding-top: 10px;
