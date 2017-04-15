@@ -13,7 +13,9 @@
    color: #898989;
    text-align: left;
    margin-left:3%;
-   padding: 10px;
+   margin-top:3%
+   padding: 20px;
+   column-rule: 1 px solid grey;
 }
 
 a:link {
