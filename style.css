@@ -5,6 +5,16 @@
         background-color: #E5E5E5;
         width:100%;
 }  
+
+.newspaper{
+   font-size: 16px;
+   column-count:3;
+   column-gap:40px; 
+   color: #898989;
+   text-align: left;
+   margin-left:3%;
+}
+
 a:link {
   color: #CC0000;
   text-decoration: none;
@@ -62,7 +72,6 @@ a:active {
         margin: auto;
         padding: 1px;
         float: left;
-
 }
 
 .name{
@@ -131,16 +140,6 @@ a.sidebarlink:active{
    margin-right:auto;
    margin-bottom:auto;
    /*float: left;   */     
-}
-
-}
-.newsstory{
-   font-size: 16px;
-   column-count:3;
-   column-gap:40px; 
-   color: #898989;
-   text-align: left;
-   margin-left:3%;
 }
 
 .bibliography{
