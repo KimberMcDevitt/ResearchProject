@@ -219,7 +219,7 @@ a.bibliography:link{
 
 .scroll-container{
    overflow: auto;
-   width: 100%;
+/*    width: 100%; */
 }
 
 .flex-container {
