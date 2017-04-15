@@ -133,6 +133,21 @@ a.sidebarlink:active{
    /*float: left;   */     
 }
 
+}
+.newsstory{
+   font-size: 16px;
+   -webkit-column-gap:40px;
+   -moz=column-gap: 40px;
+   column-gap:40px; 
+   width: 100%;
+   color: #898989;
+   text-align: left;
+   margin-left:3%;
+/*    margin-right:auto;
+   margin-bottom:auto; */
+   /*float: left;   */     
+}
+
 .bibliography{
   color: #898989;
   font-size: 10px;
