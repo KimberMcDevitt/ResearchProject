@@ -47,6 +47,10 @@ a:active {
 }
 
 .spacetall{
+        width:200px;
+}
+
+.spaceshort{
         width:100px;
 }
 
