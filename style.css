@@ -293,6 +293,7 @@ a.bibliography:link{
     align-items: flex-start;
 }
 .theme-header{
+  color: #898989;
   text-align:left;
   background:#E5E5E5;
   width:250px;
