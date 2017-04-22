@@ -9,7 +9,10 @@
         background-color: #E5E5E5;
 }
 
+.height-buffer{
+  height:100%;
 
+}
 .first_page{
         font-family: "Raleway", sans-serif;
         background-color: #E5E5E5;
