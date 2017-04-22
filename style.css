@@ -12,6 +12,7 @@
 .height-buffer{
   height:auto;
   font-size: 10px;
+  float: right;
   bottom:0;
   right:0;
 }
