@@ -258,7 +258,7 @@ a.bibliography:link{
 }
  
  .flex-item {
-    width: 350px;
+/*     width: 350px; */
     height: 350px;
     padding: 20px;
    /* flex: 1 100%; */
@@ -266,7 +266,7 @@ a.bibliography:link{
 }
 
 .flex-item-1 {
-    width: 500px;
+/*     width: 500px; */
     height: 500px;
     padding: 20px;
    /* flex: 1 100%; */
@@ -308,7 +308,7 @@ a.bibliography:link{
 }
  
  .flex-item-4 {
-    width: 350px;
+/*     width: 350px; */
     height: 350px;
     padding: 20px;
    /* flex: 1 100%; */
