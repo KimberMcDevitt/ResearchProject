@@ -1,5 +1,9 @@
 @import "compass/css3";
 
+.html{
+        background-color: #E5E5E5;
+}
+
 .body{
         font-family: "Raleway", sans-serif;
         background-color: #E5E5E5;
@@ -303,7 +307,7 @@ a.bibliography:link{
 
 .theme-definition{
   text-align:left;
-  background:#E2E2E2;
+  background:#E5E5E5;
   vertical-align: top;
    /* flex: 1 100%; */
 }
