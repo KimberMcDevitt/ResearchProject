@@ -53,7 +53,7 @@ a:active {
 .borderthin{
         background-color: #CCCCCC;
         height: 10px;
-        width:100%;
+/*         width:100%; */
         color: #CC0000;
 } 
 
@@ -62,7 +62,7 @@ a:active {
 }
 .space{
        height: 55px;
-       width: 100%;
+/*        width: 100%; */
 }
 
 .spacetall{
