@@ -275,7 +275,7 @@ a.bibliography:link{
     align-items: flex-start;
 }
 .flex-item-2 {
-    width: 1400px;
+/*     width: 1400px; */
     height:1000px;
     padding: 20px;
    /* flex: 1 100%; */
