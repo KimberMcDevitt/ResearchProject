@@ -1,5 +1,11 @@
 @import "compass/css3";
 
+.body{
+        font-family: "Raleway", sans-serif;
+        background-color: #E5E5E5;
+}
+
+
 .first_page{
         font-family: "Raleway", sans-serif;
         background-color: #E5E5E5;
