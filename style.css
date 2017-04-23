@@ -10,7 +10,8 @@
 }
 
 .height-buffer{
-  height:200px;
+  height:auto;
+  width:auto;
   font-size: 10px;
   float: right;
   bottom:0;
